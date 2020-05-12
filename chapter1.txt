@@ -1,1 +1,3 @@
-Hello this is hanish. We are in chapter 1
+Hello this is hanish. We are in chapter 1.
+
+changed test mode

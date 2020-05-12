@@ -1,1 +1,3 @@
 We are in chapter 2
+
+test mode
